@@ -3,8 +3,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+  <a href="https://music-card-favorites.vercel.app/">
+    <img src="./public/vite.svg" alt="Logo" width="80" height="80">
+  </a>
 
-<h3 align="center">Music Card Favorites</h3>
+  <h3 align="center">Music Card Favorites</h3>
 
   <p align="center">
     A simple React.js project styled with Tailwind CSS, featuring music cards where users can add tracks to their favorites and see the favorite count increase with each click.
